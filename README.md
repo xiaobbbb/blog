@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: xiaob的博客
-tagline: A simple and beautiful vuepress blog theme.
+tagline: 这是xiaob的私人博客.欢迎来到我的网站.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
